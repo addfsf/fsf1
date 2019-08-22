@@ -1,5 +1,6 @@
 public class h(){
   public static void main(String[] args){
   //ooooo
+  System.out.println("////");
   }
 }
